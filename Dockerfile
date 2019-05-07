@@ -1,3 +1,3 @@
-FRON python:alpine
+FROM python:alpine
 
 RUN apk --no-cache add git
